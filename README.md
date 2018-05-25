@@ -1,10 +1,10 @@
-# Docker container including a python IDE based on ANACONDA3
+# Docker image providing a python IDE based on Anaconda3
 
 This IDE is intended for use on a NAS system. It provides
 
-- ANACONDA3.
+- Anaconda3.
 - vim with appropriate plugins. 
-- Zsh with the oh-my-zsh framwork.
+- Zsh with the oh-my-zsh framework.
 - tmux.
 - An SSH server and a MOSH server to be able to use this container from an iPad using the Blink shell.
 - My dotfiles which ca be found at [GitHub](https://github.com/marcschlienger/dotfiles.git).
